@@ -10,7 +10,7 @@
 	"name": "$BOTgd",
 	"version": "$MOD_VERSION",
 	"developer": "$MOD_DEVELOPER",
-	"description": "$justAgdBots",
+	"description": "$justAgdBot",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
 	}
